@@ -1,0 +1,19 @@
+{
+  "name": "nllinkproject",
+  "version": "1.0.0",
+  "description": "HackYourFuture Graduation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaBoby/NlLinkProject.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SinaBoby/NlLinkProject/issues"
+  },
+  "homepage": "https://github.com/SinaBoby/NlLinkProject#readme"
+}
