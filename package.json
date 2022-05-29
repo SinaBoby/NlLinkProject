@@ -4,7 +4,9 @@
   "description": "HackYourFuture Graduation Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js",
+    "dev": "nodemon script.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SinaBoby/NlLinkProject/issues"
   },
-  "homepage": "https://github.com/SinaBoby/NlLinkProject#readme"
+  "homepage": "https://github.com/SinaBoby/NlLinkProject#readme",
+  "dependencies": {
+    "mongoose": "^6.3.4"
+  }
 }
